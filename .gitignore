@@ -1,0 +1,54 @@
+# Credenciais e configuracoes locais
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+*.token
+credentials.*
+secrets.*
+
+# Dados pessoais e documentos privados
+private/
+confidential/
+documentos-pessoais/
+curriculo-privado.*
+resume-private.*
+curriculo*.pdf
+Curriculo*.pdf
+resume*.pdf
+Resume*.pdf
+
+# Configuracoes de ferramentas e editores
+.vscode/
+.idea/
+*.code-workspace
+*.swp
+*.swo
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs e arquivos temporarios
+*.log
+*.tmp
+*.temp
+*.bak
+~$*
+
+# Dependencias e saidas comuns de projetos
+node_modules/
+dist/
+build/
+coverage/
+.cache/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
