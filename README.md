@@ -1,5 +1,3 @@
-![Banner profissional de tecnologia](assets/images/profile-banner.png)
-
 # Leonardo Coelho
 
 **Analista de TI Júnior | Sistemas corporativos | Automação de processos**
