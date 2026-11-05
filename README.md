@@ -32,7 +32,7 @@ Também trabalho com lógica de programação, documentação, análise de dados
 
 ## Experiência profissional
 
-### Analista de TI Júnior | Alliage S/A
+### Analista de TI | Alliage S/A
 
 *Jul 2026 - atual*
 
@@ -40,7 +40,7 @@ Também trabalho com lógica de programação, documentação, análise de dados
 - Análise inicial de problemas reportados por usuários.
 - Aplicação da experiência de negócio na organização de informações e melhoria contínua.
 
-### Analista Fiscal Júnior | Alliage S/A
+### Analista Fiscal | Alliage S/A
 
 *Jun 2024 - Jul 2026*
 
@@ -48,12 +48,6 @@ Também trabalho com lógica de programação, documentação, análise de dados
 - Uso de SAP ECC, Excel e análise de dados em conferências e conciliações.
 - Suporte a usuários em dúvidas relacionadas a sistemas e processos fiscais.
 
-### Assistente Administrativo Fiscal | Alliage S/A
-
-*Ago 2023 - Jun 2024*
-
-- Análise, registro e conferência de documentos fiscais.
-- Organização de documentos, conciliação de informações e atendimento a demandas internas.
 
 ## Projetos
 
