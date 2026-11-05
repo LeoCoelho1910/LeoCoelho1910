@@ -1,6 +1,6 @@
 # Leonardo Coelho
 
-**Analista de TI Júnior | Sistemas corporativos | Automação de processos**
+**Analista de TI | Sistemas corporativos | Automação de processos**
 
 Profissional de tecnologia com experiência em suporte a usuários, sistemas corporativos, análise de dados e automação de rotinas. Minha trajetória anterior na área fiscal fortaleceu minha visão de negócio e a capacidade de conectar processos, pessoas e tecnologia.
 
